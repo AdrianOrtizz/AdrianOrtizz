@@ -1,9 +1,9 @@
-Soy un desarrollador full stack pero enfocado más hacia el frontend. Tengo conocimientos sobre HTML, CSS, JavaScript, 
-React, Redux, NodeJS, postgreSQL, Sequelize, git y github. No tengo experiencia laboral tech pero tengo una experiencia de 2
-años como administrativo de ventas y logística en atención al cliente. Soy una persona organizada, proactiva y siempre dispuesta a trabajar en equipo.
+Soy Desarrollador web full stack, implementando en diferentes proyectos tecnologías como JavaScript, TypeScript, React, NodeJS y postgreSQL, complementadas con Redux, Express, Sequelize, Tailwind y Sass, en un marco de trabajo Scrum. 
 
-A parte de las habilidades tech que tengo, estoy muy interesado en sumar las tecnologías necesarias para especializarme en frontend y crecer como programador. 
-Intento progresar constantemente aprendiendo cosas nuevas para mantenerme al día de las novedades tech y estar actualizado.
+Gracias a mi background en administración y logística, he destacado en mis equipos por mi organización, proactividad, siempre dispuesto a trabajar en equipo logrando generar un buen clima laboral mediante la empatía, el compañerismo y el respeto. Siempre doy el 100% de mi capacidad para crear la solución más óptima ante cualquier problema que se presente. 
 
-Intento generar un buen clima laboral mediante la empatía, el compañerismo y el respeto. 
-Si crees que puedo aportar en tu equipo de trabajo podés contactarme por mail: adrianortizzt1vl@gmail.com
+A parte de las habilidades tech que tengo, estoy muy interesado en sumar las tecnologías necesarias para especializarme y crecer como programador. Trato de progresar constantemente aprendiendo cosas nuevas para mantenerme al día de las novedades tech y estar actualizado.
+
+Si tenés un proyecto en el que te parece que puedo sumar desde mis habilidades y mi capacidad, hablemos! - adrianortizzt1vl@gmail.com
+
+Podés ver mis trabajos acá: https://adrianortiz.vercel.app/
