@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Adrián Ortiz</h1>
 <p align="center">
-Desarrollador Full Stack Jr. con foco en frontend | Buenos Aires, Argentina 🇦🇷  
+Desarrollador Full Stack Jr. | Buenos Aires, Argentina 🇦🇷  
 Apasionado por crear experiencias web intuitivas, funcionales y bien estructuradas.
 </p>
 
